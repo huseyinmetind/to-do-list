@@ -1,0 +1,14 @@
+{
+    "name": "hmd/rota-deneme",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Metin",
+            "email": "h.metin.demirr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "altorouter/altorouter": "dev-master"
+    }
+}
